@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-whatsupgit-dev-192349-authRole",
+      "UnauthRoleArn": "arn:aws:iam::935460096122:role/amplify-whatsupgit-dev-192349-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::935460096122:role/amplify-whatsupgit-dev-192349-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-whatsupgit-dev-192349-deployment",
+      "UnauthRoleName": "amplify-whatsupgit-dev-192349-unauthRole",
+      "StackName": "amplify-whatsupgit-dev-192349",
+      "StackId": "arn:aws:cloudformation:ap-south-1:935460096122:stack/amplify-whatsupgit-dev-192349/56eb20d0-3c68-11ef-8bb7-063757707037",
+      "AmplifyAppId": "d3vri52a0wug2z"
+    },
+    "categories": {
+      "api": {
+        "whatsupgit": {}
+      },
+      "auth": {
+        "whatsupgitfb4a1992": {}
+      }
+    }
+  }
+}
